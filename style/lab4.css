@@ -1,0 +1,6 @@
+table,tr,td{
+    border: solid 1px;
+}
+tr:hover{
+    background-color: cyan;
+}
